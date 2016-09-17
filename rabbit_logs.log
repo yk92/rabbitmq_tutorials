@@ -1,2 +1,3 @@
- [*] Waiting for logs. To exit press CTRL+C
- [x] 'Log #1 - this is my first log woohoo'
+[*] Waiting for logs. Press CTRL+C to exit.
+ [x] 'warning':'This is a warning'
+ [x] 'error':'This is an error message'
